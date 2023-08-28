@@ -1,5 +1,5 @@
 # CSCI-4900
-this repository includes the project I completed in CSCI 4900 - Selected Topics in Computer Science: Cybersecurity 
+This repository includes the project I completed in CSCI 4900 - Selected Topics in Computer Science: Cybersecurity 
 
 The project is described below:
 
