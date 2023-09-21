@@ -13,8 +13,6 @@ void RailDecrypt(int key, string word);
 
 int main() 
 {
-  // add the makefile and test in jupyterslab
-  // make the readme
 
 // the variables are declared 
   ifstream myIn;
